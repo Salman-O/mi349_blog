@@ -11,6 +11,11 @@ body {
    background: #fff;
 }
 
+section{
+    background:#ccc;
+    display: flex;
+}
+
 h1 {
     font-size: 3em;
     margin: 0;
