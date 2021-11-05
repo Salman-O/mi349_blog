@@ -21,6 +21,12 @@ article{
     margin: 20px;
 }
 
+.src{
+    height: 50px;
+    width: 50px;
+    
+}
+
 h1 {
     font-size: 3em;
     margin: 0;
