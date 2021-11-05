@@ -21,10 +21,10 @@ article{
     margin: 20px;
 }
 
-.src{
+img{
     height: 50px;
     width: 50px;
-    
+    float: left;
 }
 
 h1 {
