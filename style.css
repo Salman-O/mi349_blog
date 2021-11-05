@@ -12,6 +12,7 @@ body {
 }
 
 header{
+    color:honeydew;
     background: rgb(54, 56, 54);
     position: sticky;
     top: 0;
