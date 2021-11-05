@@ -11,6 +11,12 @@ body {
    background: #fff;
 }
 
+header{
+    background: green;
+    position: sticky;
+    top: 0;
+}
+
 section{
     background:#ccc;
     display: flex;
@@ -28,9 +34,6 @@ img{
     margin-right: 10px;
 }
 
-header{
-    position: sticky;
-}
 
 h1 {
     font-size: 3em;
