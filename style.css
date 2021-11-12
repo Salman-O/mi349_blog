@@ -31,6 +31,10 @@ img{
     margin-right: 10px;
 }
 
+section{
+    background:#ccc;
+    display: flex;
+}
 
 h1 {
     font-size: 3em;
@@ -71,5 +75,9 @@ a[href] {
 @media (max-width: 400px) {
     .wrap {
         max-width: 100%;
+    }
+
+    header{ 
+        background: red;
     }
 }
