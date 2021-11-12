@@ -72,7 +72,10 @@ a[href] {
     color: red;
 }
 
-@media screen and (width: 400px) {
+@media screen and (max-width: 400px) {
+    .wrap{
+        max-width: 100%;
+    }
     header{ 
         background: red;
     }
