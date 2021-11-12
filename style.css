@@ -25,7 +25,6 @@ article{
 }
 
 img{
-    
     width: 100%;
     float: left;
     margin-right: 10px;
@@ -72,7 +71,7 @@ a[href] {
     color: red;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 1200px) {
     .wrap{
         max-width: 100%;
     }
