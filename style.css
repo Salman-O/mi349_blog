@@ -18,10 +18,6 @@ header{
     top: 0;
 }
 
-section{
-    background:#ccc;
-    display: flex;
-}
 
 article{
     padding: 20px;
