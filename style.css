@@ -72,8 +72,8 @@ a[href] {
     color: red;
 }
 
-@media (max-width: 600px ) {
-    header {
-        background: red;
+@media (max-width: 400px ) {
+    .wrap {
+        max-width: 100%;
     }
 }
