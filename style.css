@@ -11,6 +11,15 @@ body {
    background: #fff;
 }
 
+@media (max-width: 400px) {
+    .wrap{
+        max-width: 100%;
+    }
+    header{ 
+        background: red;
+    }
+}
+
 header{
     color:honeydew;
     background: rgb(54, 56, 54);
@@ -72,11 +81,3 @@ a[href] {
     color: red;
 }
 
-@media screen and (max-width: 400px) {
-    .wrap{
-        max-width: 100%;
-    }
-    header{ 
-        background: red;
-    }
-}
